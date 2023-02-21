@@ -20,4 +20,3 @@ python p-b.py <br>
 
 El proceso `p-t` se encargará de la generación y distribución de las claves necesarias para el cifrado y descifrado de los mensajes entre `p-a` y `p-b`. Los procesos `p-a` y `p-b` se encargan de cifrar y descifrar los mensajes utilizando los algoritmos AES y RSA.
 
-Es importante asegurarse de que las dependencias necesarias estén instaladas antes de ejecutar los archivos.
