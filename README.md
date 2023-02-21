@@ -14,9 +14,9 @@ Este es un proyecto de implementación de un protocolo de seguridad en Python. E
 ## Uso
 
 Para utilizar el protocolo de seguridad, es necesario ejecutar los archivos `p-t.py`, `p-a.py` y `p-b.py` en tres terminales distintas, en este orden:
-python p-t.py
-python p-a.py
-python p-b.py
+python p-t.py.
+python p-a.py.
+python p-b.py.
 
 El proceso `p-t` se encargará de la generación y distribución de las claves necesarias para el cifrado y descifrado de los mensajes entre `p-a` y `p-b`. Los procesos `p-a` y `p-b` se encargan de cifrar y descifrar los mensajes utilizando los algoritmos AES y RSA.
 
