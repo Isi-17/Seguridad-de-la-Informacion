@@ -1,6 +1,6 @@
-# Implementación del protocolo de seguridad
+# Implementación del protocolo de seguridad Kerberos
 
-Este es un proyecto de implementación de un protocolo de seguridad en Python. Este protocolo utiliza los algoritmos de cifrado AES y RSA para proporcionar confidencialidad e integridad en la comunicación entre dos procesos, llamados `p-a` y `p-b`, a través de un tercer proceso de confianza llamado `p-t`.
+Este es un proyecto de implementación de un protocolo Kerberos en Python. Este protocolo utiliza los algoritmos de cifrado AES y RSA para proporcionar confidencialidad e integridad en la comunicación entre dos procesos, llamados `p-a` y `p-b`, a través de un tercer proceso de confianza llamado `p-t`.
 
 ## Estructura del proyecto
 
